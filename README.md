@@ -234,12 +234,14 @@ issues, please don't hesitate to use Github for communication with me
 
 # Comments
 
-This article has also been published on [r/ethereum](), feel free to
-discuss there!
+This article has also been published
+on
+[r/ethereumclassic](https://www.reddit.com/r/EthereumClassic/comments/6o8ohk/my_thoughts_on_the_corion_ico/),
+feel free to discuss there!
 
-The article has also been posted on r/etc, r/ethtrader and
+The article has also been posted on r/ethereum, r/icocrypto and
 bitcointalk, but please keep the discussion on the main thread on
-r/ethereum.
+r/ethereumclassic.
 
 # Donation
 
