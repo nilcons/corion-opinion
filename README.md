@@ -239,7 +239,7 @@ on
 [r/ethereumclassic](https://www.reddit.com/r/EthereumClassic/comments/6o8ohk/my_thoughts_on_the_corion_ico/),
 feel free to discuss there!
 
-The article has also been posted on r/ethereum, r/icocrypto and
+The article has also been posted on r/ethtrader, r/icocrypto and
 bitcointalk, but please keep the discussion on the main thread on
 r/ethereumclassic.
 
